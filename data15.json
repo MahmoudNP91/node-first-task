@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "Mahmoud",
+        "lname": "NaNaPoku",
+        "age": 21,
+        "city": "Obour"
+    },
+    {
+        "id": 2,
+        "fname": "Mahmoud",
+        "lname": "El Dock",
+        "age": 20,
+        "city": "bahteem"
+    },
+    {
+        "id": 3,
+        "fname": "Loay",
+        "lname": "Emad",
+        "age": 21,
+        "city": "Obour"
+    },
+    {
+        "id": 4,
+        "fname": "Seifeldeen",
+        "lname": "Wael",
+        "age": 21,
+        "city": "6 October"
+    },
+    {
+        "id": 5,
+        "fname": "Seifeldeen",
+        "lname": "Amer",
+        "age": 22,
+        "city": "Elabasya"
+    },
+    {
+        "id": 6,
+        "fname": "Amr",
+        "lname": "Khaled",
+        "age": 21,
+        "city": "Abdo Basha"
+    }
+]
